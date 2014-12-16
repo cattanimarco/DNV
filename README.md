@@ -5,4 +5,4 @@ Mobile nodes are visualized in blue and does not show their value. The position 
 
 The visualizer comes with some demo logs. To load the node positions press 'L' (load). To start and stop the visualization press 'P' (pause). If you want to save the position of anchor nodes (after dragging them to a new position) press 'S' (save).
 
-NOTE: you need to copy the library "Common.jar" in a folder named 'libraries' inside the 'sketchbook' folder. For more information on how to install a library for processing go to this link: https://github.com/processing/processing/wiki/How-to-Install-a-Contributed-Library
+NOTE: in order for the visualizer to work, you need to copy the library "Common.jar" in a folder named 'libraries' inside the 'sketchbook' folder. For more information on how to install a library for processing go to this link: https://github.com/processing/processing/wiki/How-to-Install-a-Contributed-Library
